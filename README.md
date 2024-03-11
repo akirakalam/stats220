@@ -7,7 +7,7 @@ See the [STATS 220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/12
 
 ## Purpose
 The purpose of this repository is to:
-1. **Document Learning Journey**: I will document my progress and learning experiences throughout this course.
+1. **Document Learning Journey**: Document my progress and learning experiences throughout this course.
 2. **Share Understanding**: Share information and insights obtained from working on various projects.
 
 ## Programming Languages
