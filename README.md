@@ -7,14 +7,15 @@ See the [STATS 220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/12
 
 ## Purpose
 The purpose of this repository is to:
-1. **Document Learning Journey**: I plan to document my progress and learning experiences throughout this course.
+1. **Document Learning Journey**: I will document my progress and learning experiences throughout this course.
 2. **Share Understanding**: Share information and insights obtained from working on various projects.
 
 ## Programming Languages
-The projects in this repository involve the following programming languages:
+The projects in this repository involve the following markup and programming languages:
 
 * **HTML**: Used for web development and creating interactive visualisations.
 * **R**: Used for statistical analysis, data manipulation, and visualisation.
+* **Markdown**: Used for creating formatted documentation such as this README.md file
 
 ## Projects
 This repository contains the following projects:
